@@ -2,13 +2,6 @@
 
 **Roblox Group Wall Purger** is a Python script designed to help manage and clean up posts on your Roblox group wall. This script can delete posts containing specific keywords, making it easier to maintain a clean and relevant group wall.
 
-## Use Cases
-
-1. **Maintaining Group Cleanliness**: If you manage a group and want to ensure that the wall is free from spam or irrelevant content, this script helps you filter and remove such posts.
-2. **Hiding Past Content**: You can use the script to find and delete old posts that no longer reflect the current status or direction of the group.
-3. **Improving Group Reputation**: By cleaning up posts that may negatively impact the group’s image, you can present a more polished and professional appearance.
-4. **Managing Sensitive Information**: If your group wall has posts that contain sensitive or outdated information, this script helps you locate and remove them.
-
 ## Features
 
 - **Collects Posts**: Retrieves all posts from the specified group wall, handling pagination to ensure all posts are processed.
